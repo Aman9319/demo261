@@ -12,8 +12,8 @@ public class DemoA {
 	Reporter.log("Run testA1", true);	
 	Assert.fail();
 	
-
-
+Reporter.log("Run testA2", true);	
+	Assert.fail();
 
 
 
